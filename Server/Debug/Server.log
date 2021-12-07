@@ -1,0 +1,7 @@
+﻿  Server.cpp
+C:\Users\diana\Universidade de Tras-os-Montes e Alto Douro\al68557@utad.eu - Trabalho Prático SD\Server\Server\Server.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\diana\Universidade de Tras-os-Montes e Alto Douro\al68557@utad.eu - Trabalho Prático SD\Server\Server\Server.cpp(73,29): warning C4305: 'argument': truncation from 'int' to 'u_short'
+C:\Users\diana\Universidade de Tras-os-Montes e Alto Douro\al68557@utad.eu - Trabalho Prático SD\Server\Server\Server.cpp(73,24): warning C4309: 'argument': truncation of constant value
+C:\Users\diana\Universidade de Tras-os-Montes e Alto Douro\al68557@utad.eu - Trabalho Prático SD\Server\Server\Server.cpp(138,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\diana\Universidade de Tras-os-Montes e Alto Douro\al68557@utad.eu - Trabalho Prático SD\Server\Server\Server.cpp(408,6): warning C4101: 'a': unreferenced local variable
+  Server.vcxproj -> C:\Users\diana\Universidade de Tras-os-Montes e Alto Douro\al68557@utad.eu - Trabalho Prático SD\Server\Debug\Server.exe
