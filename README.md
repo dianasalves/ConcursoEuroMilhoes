@@ -1,7 +1,7 @@
 # ConcursoEuromilhoes
 
   Com este projeto pretendeu-se criar um sistema cliente/servidor que permita registar e gerir apostas no jogo Euromilhões usando a framework gRPC. Foi implementado três programas
-cliente e um programa servidor usando a linguagem C# e a framework gRPC. Foi também especificado o conjunto de serviços RPC implementados no servidor e usados pelos clientes.
+cliente e um programa servidor usando a linguagem C++ e a framework gRPC. Foi também especificado o conjunto de serviços RPC implementados no servidor e usados pelos clientes.
 
 Servidor:
   • Implementou-se as funcionalidades necessárias para os utilizadores registarem apostas, e disponibilizar essas funcionalidades sob a forma de serviço gRPC.
@@ -33,5 +33,5 @@ Cliente para gestão do sorteio:
   • Foi programado como uma aplicação com interface gráfica Windows (Windows forms).
   
 Implementação:
-  • A implementação dos clientes e do servidor foram feitas em Visual Studio (Core 3 ou superior e C#) e gRPC.
+  • A implementação dos clientes e do servidor foram feitas em Visual Studio (Core 3 ou superior e C++) e gRPC.
  
